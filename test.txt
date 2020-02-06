@@ -1,3 +1,5 @@
 Hola, esto es un documento txt.
 
 - este es un cambio del contenido
+
+- segundo cambio del contenido
