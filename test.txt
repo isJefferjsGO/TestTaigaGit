@@ -1,17 +1,10 @@
 Hola, esto es un documento txt.
-
 - este es un cambio del contenido
-
 - segundo cambio del contenido
-
 - tercer cambio
-
 - cuarto cambio
-
 - quinto cambio
-
 - sexto cambio, prueba con github
-
 - septimo cambio, prueba con github
-
 - 8vo cambio, prueba con bitbucket
+- 9no cambio, prueba con bitbucket
